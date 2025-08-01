@@ -1,6 +1,6 @@
 package example.rest.Rest_Project;
 
-import com.example.rest.RestProjectApplication
+import com.example.rest.RestProjectApplication;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
